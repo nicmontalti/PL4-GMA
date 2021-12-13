@@ -1,0 +1,9 @@
+READ ME:
+
+All measurements were done on channel 0 of the PSAU! Thus, only read off of channel 0 for the threshold voltage in the condition files. 
+
+Do NOT use the data in the 'Extras' file.
+
+The gain for the CsI data was set quite high, so you are looking at the lower end of the spectrum (more towards X-rays). Furthermore,
+the spectrum sometimes 'cuts off' at certain peaks. Approximate where the peak would be and try to explain why this happens (think
+about the gain, how does it relate to the counts as well?) 

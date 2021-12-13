@@ -1,0 +1,46 @@
+Dataset metadata
+Date / Time creation: 	 20210728-T104018 
+User: 	 Guest 
+Activity code: 	 21 
+Sub-Activity code: 	 6 
+Sub-Activity: 	 B1.3 Energy Resolution 
+
+PSAU settings:
+ Channel in use: 	 0 
+
+Channels setting follow: 	  
+Ch.:  	 0 
+SiPM Serial: 	 ***** 
+Bias Voltage [V]: 	 55,00 
+Gain [dB]: 	 40,00 
+Threshold [mV]: 	 -75,00 
+Channel Temperature [°C]: 	 25,20 
+T Compensation:  	 Off 
+dV/dT 	 20,00 
+Ch.:  	 1 
+SiPM Serial: 	 ***** 
+Bias Voltage [V]: 	 55,00 
+Gain [dB]: 	 40,00 
+Threshold [mV]: 	 -50,00 
+Channel Temperature [°C]: 	 20,70 
+T Compensation:  	 Off 
+dV/dT 	 20,00 
+
+DGTZ settings:
+ Model: 	 DT5720A 
+Model #: 	 9 
+Serial #: 	 2035 
+Channel 0 Status: 	 On 
+Channel 1 Status: 	 Off 
+DC Offset 0: 	 0 
+DC Offset 1: 	 0 
+Trigger Mode: 	 FALSE 
+Trigger Rise Time: 	 8 
+Trigger Mean: 	 8 
+Trigger 0 Thresh.: 	 0 
+Trigger 1 Thresh.: 	 10 
+Gate Mode: 	 FALSE 
+Gate Width|Pre|Hold: 	 1000 | 144 | 2000 
+Baseline Mean|Thresh.|NoFlatTime: 	 512 | 8 | 4008 
+Coincidence Status: 	 FALSE 
+Coincidence on GPO|Time: 	 0 | 0 
